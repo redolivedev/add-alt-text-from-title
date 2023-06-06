@@ -12,8 +12,8 @@ Add image alt text by taking the file name, replacing hyphens with spaces and se
 
 ### The first time:
 
-- Download this repo
-- Upload it to your server under `wp-content/plugins`
+- Download this repo as a zip
+- Upload it to your server under `wp-content/plugins` OR use add new plugin - upload and find the .zip file
 - Activate it in wordpress
 
 The plugin will run on activation so that's all you need to do.
