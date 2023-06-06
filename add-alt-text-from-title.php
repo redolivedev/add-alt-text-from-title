@@ -2,17 +2,17 @@
 
 /**
  *
- * @link              https://www.redolive.io
- * @since             1.0.0
+ * @link              https://www.redolive.com
+ * @since             1.0.1
  * @package           add-alt-text-from-title
  *
  * @wordpress-plugin
  * Plugin Name:       Add Alt Text From Attachment Titles
  * Plugin URI:        https://www.redolive.io/
  * Description:       A super simple plugin to add alt text from attachment titles. Runs on activation or when ?generatealttext is in the url of an admin page
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Red Olive
- * Author URI:        https://www.redolive.io/
+ * Author URI:        https://www.redolive.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       add-alt-text-from-title
