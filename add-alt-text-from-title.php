@@ -8,7 +8,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Add Img Alt Tags from Page Title
- * Plugin URI:        https://www.redolive.io/
+ * Plugin URI:        https://www.redolive.com/
  * Description:       A super simple plugin to add alt text from attachment titles. Runs on activation or manually by appending ?generatealttext is in the url of an admin page
  * Version:           1.0.2
  * Author:            Red Olive
