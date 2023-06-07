@@ -3,14 +3,14 @@
 /**
  *
  * @link              https://www.redolive.com
- * @since             1.0.1
+ * @since             1.0.2
  * @package           add-alt-text-from-title
  *
  * @wordpress-plugin
- * Plugin Name:       Add Alt Text From Attachment Titles
+ * Plugin Name:       Red Olive Add Missing Alt Tags from Page Title
  * Plugin URI:        https://www.redolive.io/
- * Description:       A super simple plugin to add alt text from attachment titles. Runs on activation or when ?generatealttext is in the url of an admin page
- * Version:           1.0.1
+ * Description:       A super simple plugin to add alt text from attachment titles. Runs on activation or manually by appending ?generatealttext is in the url of an admin page
+ * Version:           1.0.2
  * Author:            Red Olive
  * Author URI:        https://www.redolive.com/
  * License:           GPL-2.0+
@@ -26,7 +26,7 @@ if ( ! defined( 'WPINC' ) ) {
 /**
  * Current plugin version.
  */
-define( 'ADD_ALT_TEXT_FROM_TITLE_VERSION', '1.0.1' );
+define( 'ADD_ALT_TEXT_FROM_TITLE_VERSION', '1.0.2' );
 
 /**
  * The code that runs during plugin activation.
