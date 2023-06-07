@@ -26,7 +26,7 @@ if ( ! defined( 'WPINC' ) ) {
 /**
  * Current plugin version.
  */
-define( 'ADD_ALT_TEXT_FROM_TITLE_VERSION', '1.0.0' );
+define( 'ADD_ALT_TEXT_FROM_TITLE_VERSION', '1.0.1' );
 
 /**
  * The code that runs during plugin activation.
